@@ -2,6 +2,10 @@
   <img src=https://img.shields.io/badge/vers%C3%A3o-1.0.1-red />  
 </p>
 
+<p>
+<img src="https://raw.githubusercontent.com/wueliton/procura/master/images/logo.png" width="40%" />
+</p>
+
 # Procura SEO Rank
 
 <p>
@@ -13,9 +17,10 @@
 Baixa o repositório e cole a pasta em um servidor local (wamp, xampp).
 
 ### Pesquisa de Palavras Chave
-**Esse texto está em negrito**
 
 <p>Após iniciar a aplicação, insira os dados para realizar a pesquisa</p>
+
+
 
 * **Endereço do Site:** Insira o endereço do site sem http/https ou www para que a busca localize todos os tipos de ocorrência.
 * **Nome do Site:** Nome identificador do site e nome da pasta que receberá uma cópia, em HTML, de todas as páginas localizadas (para conferência do resultado).
