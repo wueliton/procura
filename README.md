@@ -14,12 +14,13 @@
 
 ## Como utilizar
 
-Baixa o repositório e cole a pasta em um servidor local (wamp, xampp).
+Baixe o repositório e cole a pasta em um servidor local (wamp, xampp).
 
 ### Pesquisa de Palavras Chave
 
 <p>Após iniciar a aplicação, insira os dados para realizar a pesquisa</p>
 
+<p><img src="https://raw.githubusercontent.com/wueliton/procura/master/images/home.jpg" width="70%" /></p>
 
 
 * **Endereço do Site:** Insira o endereço do site sem http/https ou www para que a busca localize todos os tipos de ocorrência.
@@ -30,11 +31,13 @@ Baixa o repositório e cole a pasta em um servidor local (wamp, xampp).
 
 ### Localização das Palavras Chave
 
+<p><img src="https://raw.githubusercontent.com/wueliton/procura/master/images/busca.gif" width="80%" /></p>
+
 A aplicação irá simular a busca, abrindo as páginas do Google (simulando a ação do usuário), e tentará localizar a primeira ocorrência, se localizado, é realizada uma cópia do resultado encontrado na pasta **searchs** com o nome do Site buscado.
 
 ### Relatório da Busca
 
-No fim da busca é gerado um relatório em Excel, para que o relatório possa ser baixado, é necessário clicar em **Sair**, em seguida será baixado um arquivo com todas as informações da busca.
+No fim da busca é gerado um relatório em Excel onde é possível conferir o posicionamento de cada palavra pesquisada.
 
 ## Erros
 
