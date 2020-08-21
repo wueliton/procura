@@ -17,19 +17,19 @@ Baixa o repositório e cole a pasta em um servidor local (wamp, xampp).
 
 <p>Após iniciar a aplicação, insira os dados para realizar a pesquisa</p>
 
-* Endereço do Site: Insira o endereço do site sem http/https ou www para que a busca localize todos os tipos de ocorrência.
-* Nome do Site: Nome identificador do site e nome da pasta que receberá uma cópia, em HTML, de todas as páginas localizadas (para conferência do resultado).
-* Palavras Chave: Digite as palavras chave separando-as por uma quebra de linha (insira o valor exato procurado, pois a ferramenta realiza a busca do texto digitado, simulando   uma pesquisa no Google e localiza a ocorrência).
+* **Endereço do Site:** Insira o endereço do site sem http/https ou www para que a busca localize todos os tipos de ocorrência.
+* **Nome do Site:** Nome identificador do site e nome da pasta que receberá uma cópia, em HTML, de todas as páginas localizadas (para conferência do resultado).
+* **Palavras Chave:** Digite as palavras chave separando-as por uma quebra de linha (insira o valor exato procurado, pois a ferramenta realiza a busca do texto digitado, simulando   uma pesquisa no Google e localiza a ocorrência).
 
 <p>Após inserir as informações, envie o formulário.</p>
 
 ### Localização das Palavras Chave
 
-<p>A aplicação irá simular a busca, abrindo as páginas do Google (simulando a ação do usuário), e tentará localizar a primeira ocorrência, se localizado, é realizada uma cópia do resultado encontrado na pasta __searchs__ com o nome do Site buscado.</p>
+A aplicação irá simular a busca, abrindo as páginas do Google (simulando a ação do usuário), e tentará localizar a primeira ocorrência, se localizado, é realizada uma cópia do resultado encontrado na pasta **searchs** com o nome do Site buscado.
 
 ### Relatório da Busca
 
-<p>No fim da busca é gerado um relatório em Excel, para que o relatório possa ser baixado, é necessário clicar em __Sair__, em seguida será baixado um arquivo com todas as informações da busca.</p>
+No fim da busca é gerado um relatório em Excel, para que o relatório possa ser baixado, é necessário clicar em **Sair**, em seguida será baixado um arquivo com todas as informações da busca.
 
 ## Erros
 
