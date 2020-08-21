@@ -16,9 +16,11 @@ Baixa o repositório e cole a pasta em um servidor local (wamp, xampp).
 **Esse texto está em negrito**
 
 <p>Após iniciar a aplicação, insira os dados para realizar a pesquisa</p>
-- **Endereço do Site**: Insira o endereço do site sem http/https ou www para que a busca localize todos os tipos de ocorrência.
-- **Nome do Site**: Nome identificador do site e nome da pasta que receberá uma cópia, em HTML, de todas as páginas localizadas (para conferência do resultado).
-- **Palavras Chave**: Digite as palavras chave separando-as por uma quebra de linha (insira o valor exato procurado, pois a ferramenta realiza a busca do texto digitado, simulando uma pesquisa no Google e localiza a ocorrência).</p>
+
+* Endereço do Site: Insira o endereço do site sem http/https ou www para que a busca localize todos os tipos de ocorrência.
+* Nome do Site: Nome identificador do site e nome da pasta que receberá uma cópia, em HTML, de todas as páginas localizadas (para conferência do resultado).
+* Palavras Chave: Digite as palavras chave separando-as por uma quebra de linha (insira o valor exato procurado, pois a ferramenta realiza a busca do texto digitado, simulando   uma pesquisa no Google e localiza a ocorrência).
+
 <p>Após inserir as informações, envie o formulário.</p>
 
 ### Localização das Palavras Chave
