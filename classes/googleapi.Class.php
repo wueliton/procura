@@ -82,7 +82,7 @@ class GoogleAPI {
 
 			$content2 = preg_replace('/<script\b[^>]*>(.*?)<\/script>/is', "", $content);
 			$content2 = preg_replace('/<style\b[^>]*>(.*?)<\/style>/is', "", $content2);
-			preg_match_all('/<div class="rc" data-hveid="\b[^>]*>(.*?)<\/div>/is', $content2, $conteudo);
+			preg_match_all('/<div class="tF2Cxc">(.*?)<\/div>/is', $content2, $conteudo);
 			$urlSite = $urlSite;
 			$array = preg_grep("/\b$urlSite\b/i",$conteudo[0]);
 			$search = str_replace("'","&lsquo;",$search);
